@@ -1,0 +1,15 @@
+1527622281388	geckodriver	INFO	geckodriver 0.20.1
+1527622281393	geckodriver	INFO	Listening on 127.0.0.1:37368
+1527622282397	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xAfBbsG43Xx2"
+1527622285096	Marionette	INFO	Listening on port 2828
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "mailto"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "ircs"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "irc"
+1527622350634	geckodriver	INFO	geckodriver 0.20.1
+1527622350640	geckodriver	INFO	Listening on 127.0.0.1:51270
+1527622351641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3F3dkh8ogeW5"
+1527622353692	Marionette	INFO	Listening on port 2828
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "mailto"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "ircs"
+kf5.kio.core: Refilling KProtocolInfoFactory cache in the hope to find "irc"
+1527622434615	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
